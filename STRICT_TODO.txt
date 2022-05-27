@@ -1,0 +1,27 @@
+
+FOLLOW THIS FOR NOW. ALL CAPS SERIOUSNESS. PROJECT IS GOING ALL HAY WIRE. FIXX IT.
+
+CHECK LIST
+
+add web browser picker and browse from there itself with searchengine
+
+
+DONE 1. RUN.PY [BETTER UI AND SEEN IF MORE STUFF CAN BE ADDED]
+2. AHP1.PY [FIX THE WEIRD AND JUST HANGING FUNCTIONS. MAKE THE CHANGES AS IN 'TOOLS AND THEIR SECTIONS']
+	2 A - AUTOMATE TOOLS IN THE SAME ORDER AS GIVEN BELOW. MAYBE START WITH THE NON-AUTOMATED AND RUN
+	      IN BACKGROUND
+	DONE 2 B - GET USERNAME THE SAME WAY AS IN RUN.PY
+	PROGRESS 2 C - BASE64 BANNERS
+3. AUTOMATE TOOLS AS IN THE CATEGORIES BELOW.
+4. UPDATE ALL FILES ON GIT TOGETHER. KEEP TRACK OF WHICH FILES ARE BEING UPDATED. AS OF NOW, ONLY RUN.PY AND AHP1.PY
+   UPDATE GIT WITH THESE FIRST. THEN MOVE ONTO OTHER TOOLS.
+
+TOOLS AND THEIR SECTIONS
+
+1. Scanning and recon - ping, nping, nmap, runsscan, treacroute, sherlock, phonefinfoga
+2. Social Engineering - Hiddeneye, Blackeye, kingphisher. 
+3. Recon - Nmap, sherlock, phonefinfoga
+4. Non automated - Metasploit, Burpsuite.wireshark
+5. Misc - Password manager, calculator, madlibs, blackjack.
+
+Bruting
